@@ -1,0 +1,250 @@
+body 
+{
+    direction:rtl;
+    background-image:url(../images/hitBG5.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+#container 
+{
+    width: 960px;
+    height: 1200px;
+    margin: 0 auto;
+    background: rgba(0,130,133, 1);
+    color: white;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+
+#happyWalk {
+    margin-top: 50px;
+    margin-right: 630px;
+    width: 250px;
+    padding-top: 20px;
+    height: 230px;
+    position: absolute;
+    -webkit-border-radius: 250px;
+    border-radius: 250px;
+
+}
+
+#intro 
+{
+    padding-top:10px;
+    margin-right:280px;
+    width:400px;
+    height:100px;
+    font-size: 48pt;
+}
+
+.intro2 
+{
+    margin:20px 30px 0px 0px;
+    text-align:justify;
+    width:500px;
+}
+
+#c1 
+{
+    display: block;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    margin: 100px 40px 0px 0px;
+    font-size: 24pt;
+    width: 200px;
+    height: 200px;
+    border: 5px solid white;
+    -webkit-border-radius: 200px;
+    border-radius: 200px;
+    line-height: 200px;
+    -webkit-transition: all 5s;
+    -moz-transition: all 5s;
+    -ms-transition: all 5s;
+    -o-transition: all 5s;
+    transition: all 5s;
+}
+
+    #c1:hover 
+    {
+        background-color: white;
+        color: #008285;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -ms-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+
+#c2 
+{
+    display:block;
+    text-decoration:none;
+    color:white;
+    position: absolute;
+    margin: 50px 260px 0px 0px;
+    font-size: 24pt;
+    padding: 0px 50px;
+    width: 100px;
+    height: 150px;
+    border: 5px solid white;
+    -webkit-border-radius: 200px;
+    border-radius: 200px;
+    padding-top: 50px;
+    -webkit-transition: all 5s;
+    -moz-transition: all 5s;
+    -ms-transition: all 5s;
+    -o-transition: all 5s;
+    transition: all 5s;
+}
+
+    #c2:hover 
+    {
+        background-color: white;
+        color: #008285;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -ms-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+
+#c3 {
+    display: block;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    margin: 50px 480px 0px 0px;
+    font-size: 24pt;
+    padding: 0px 50px;
+    width: 100px;
+    height: 150px;
+    border: 5px solid white;
+    -webkit-border-radius: 200px;
+    border-radius: 200px;
+    padding-top: 50px;
+    -webkit-transition: all 5s;
+    -moz-transition: all 5s;
+    -ms-transition: all 5s;
+    -o-transition: all 5s;
+    transition: all 5s;
+}
+
+    #c3:hover 
+    {
+        background-color: white;
+        color: #008285;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -ms-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+
+#c4 
+{
+    display: block;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    margin: 100px 700px 0px 0px;
+    font-size: 24pt;
+    padding: 0px 50px;
+    width: 100px;
+    height: 150px;
+    border: 5px solid white;
+    -webkit-border-radius: 200px;
+    border-radius: 200px;
+    padding-top: 50px;
+    -webkit-transition: all 5s;
+    -moz-transition: all 5s;
+    -ms-transition: all 5s;
+    -o-transition: all 5s;
+    transition: all 5s;
+}
+
+#c4:hover
+{
+    background-color: white;
+    color: #008285;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+#hitLogo 
+{
+    margin-right:30px;
+    display: block;
+    position: absolute;
+    width: 163px;
+    height: 100px;
+    padding: 10px 0px 10px 15px;
+    -webkit-border-radius: 0 0 0 10px;
+    border-radius: 0 0 0 10px;
+}
+
+#hitLogo:hover
+{
+    opacity:0.8;
+}
+
+h2 
+{
+    color:yellow;
+    font-size:48pt;
+    margin-top: 15px;
+}
+#signN
+{
+    margin-top:300px;
+}
+
+label 
+{
+    display:inline-block;
+    margin:10px;
+    text-align:right;
+}
+
+input
+{
+    width:200px;
+}
+
+form
+{
+    margin-top:20px;
+}
+
+#sendForm
+{
+    top:635px;
+    margin-right:570px;
+    position:absolute;
+    display:block;
+    width:100px;
+    height:100px;
+    font-size:32pt;
+}
+
+#border
+{
+    border-top:3px solid white;
+}
+
+#feedback 
+{
+    background-color: white;
+    width: 200px;
+    line-height: 30px;
+    margin: 0px 380px 10px 0px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
+
